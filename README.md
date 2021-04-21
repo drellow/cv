@@ -53,6 +53,11 @@ Full stack Rails developer building a world-class online learning platform. Work
   - Answers can be voted upon and commented upon as well. The app is gamified with a scoreboard that is dynamically built from user interaction.
   - No longer running, but it was fun briefly.
 
+**Sound Engineer & Musician** <br>
+  - Recorded, mixed, and produced several records.
+  - Performed dozens of lives shows with multiple musical acts.
+  - Spent countless amounts of money on drum machines and synthesizers.
+
 ## Past Work
 
 **Lead Designer** @ CLAW _(2012)_ <br>
