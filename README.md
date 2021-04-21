@@ -49,7 +49,9 @@ Full stack Rails developer building a world-class online learning platform. Work
   - Focus is on a clean, useable and mobile-friendly design which can be easily nagivated and used during roleplaying game sessions.
 
 [The TQ](http://www.thetq.net) <br>
-  - Social networking site that allows friends and acquaintances to learn more about each other. Moderators post daily thought provoking questions. The answers are sorted along the logged-in user's social graph via Facebook integration. Answers can be voted upon and commented upon as well. The app is gamified with a scoreboard that is dynamically built from user interaction. Use of AJAX and unobtrusive Javascript provides for an easy and fun user experience. Includes email notifications and user preferences.
+  - Social networking site that allows friends and acquaintances to learn more about each other. Moderators post daily thought provoking questions. The answers are sorted along the logged-in user's social graph via Facebook integration. 
+  - Answers can be voted upon and commented upon as well. The app is gamified with a scoreboard that is dynamically built from user interaction.
+  - No longer running, but it was fun briefly.
 
 ## Past Work
 
