@@ -53,7 +53,7 @@ Full stack Rails developer building a world-class online learning platform. Work
   - Answers can be voted upon and commented upon as well. The app is gamified with a scoreboard that is dynamically built from user interaction.
   - No longer running, but it was fun briefly.
 
-[CTRO](https://open.spotify.com/artist/22pMySR9XC9BiB1Y3pNWXI?si=ICNTs7RFTGe7q8xv0VPRCw/) | [Bells Rang](https://bellsrang.com/releases) | **Fellow Wolf** | etc. <br>
+[CTRO](https://open.spotify.com/artist/22pMySR9XC9BiB1Y3pNWXI?si=ICNTs7RFTGe7q8xv0VPRCw/) | [Bells Rang](https://bellsrang.com/releases) | Fellow Wolf | etc. <br>
   - Recorded, engineered, mixed, and produced several records.
   - Performed dozens of lives shows with multiple musical acts.
   - Spent countless amounts of money on drum machines and synthesizers.
