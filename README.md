@@ -44,7 +44,7 @@ Full stack Rails developer building a world-class online learning platform. Work
 
 ## Personal Projects
 
-[Glumdark](https://glumdark.com) <br>
+[Glumdark](https://www.glumdark.com) <br>
   - Content platform for pre-generated and randomized tabletop roleplaying content. Node backend and simple jQuery frontend.
   - Focus is on a clean, useable and mobile-friendly design which can be easily nagivated and used during roleplaying game sessions.
 
