@@ -63,13 +63,13 @@ Developed gameplay mechanics and visual style for Election War Room 2012 for iOS
 
 **Co-Founder & Game Developer** @ Good Controller _(2011)_ <br>
 Co-founded a video game development company. As a two person team with no initial experience in the industry, we developed a finished product in just over a year.  Our game was featured by Apple and distributed to tens of thousands of mobile customers.
-  - Worked closely with product engineer to develop user interface assets and
+  - Worked closely with product engineer to develop user interface assets.
   - Developed a UI style and voice specific to the project.
-  - Designed top to bottom user interface, including all written and visual 
+  - Designed top to bottom user interface, including all written and visual content.
   - Maintained visual and written style throughout all brand messaging, 
   - Created visual assets, including character models and in-game content.
-  - Produced all game audio from sound effects to music performance and
-  - Performed all marketing and promotional tasks including content writing, 
+  - Produced all game audio from sound effects to music performance and engineering.
+  - Performed all marketing and promotional tasks including content writing.
   - Developed online presence and cultivated social media awareness.
 
 ## Languages Spoken
