@@ -1,6 +1,6 @@
 # Christopher Drellow
 
-_Software Developer (also, musician and maker) from San Francisco_ <br>
+_Software Developer in San Francisco, California_ <br>
 
 [Email](mailto:christopherlives@gmail.com) | [GitHub](https://github.com/drellow/) | [Spotify](https://open.spotify.com/artist/22pMySR9XC9BiB1Y3pNWXI?si=ICNTs7RFTGe7q8xv0VPRCw/)
 
@@ -80,9 +80,9 @@ Co-founded a video game development company. As a two person team with no initia
 
 ## Education
 
-**Rhode Island School of Design** Product Development & Manufacturing<br>
+**Rhode Island School of Design** - Product Development & Manufacturing<br>
 [RISD](https://www.risd.edu/) - Online / Providence, RI _(2020 - Present)_ <br>
-**App Academy** Bootcamp / Code School<br>
+**App Academy** - Bootcamp / Code School<br>
 [App Academy](http://www.appacademy.io) - San Francisco, CA _(2013)_ <br>
 **State University of New York at Buffalo** - Comparative Literature and Journalism<br>
 [SUNY Buffalo](https://www.risd.edu/) - Buffalo, NY _(2007)_ <br>
