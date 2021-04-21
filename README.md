@@ -2,9 +2,9 @@
 
 _Software Developer (also, musician and maker) from San Francisco_ <br>
 
-[Email](mailto:christopherlives@gmail.com) | [GitHub](https://github.com/drellow/)
+[Email](mailto:christopherlives@gmail.com) | [GitHub](https://github.com/drellow/) | [Spotify](https://open.spotify.com/artist/22pMySR9XC9BiB1Y3pNWXI?si=ICNTs7RFTGe7q8xv0VPRCw/)
 
-## My Work
+## Recent Work
 
 **Software Engineer** @ [Verba Software](https://get.vitalsource.com/what-we-offer/campus-stores) _(March 2015 - Present)_ <br>
 Full stack Rails developer on a team dedicated to making learning materials more affordable and accessible to students.  
@@ -18,7 +18,7 @@ Full stack Rails developer building a world-class online learning platform. Work
   - **Readiness** <br> Built a system that monitors a student's progression through learning material and provides up to the moment feedback, showing them when they are ready to take their exams.
   - **Course Plans** <br> Backbone application hosted on Rails. Allows course designers to dynamically plan and share course learning materials. Supports multiple dependent objects and automatic persistence to the server.
 
-## Technologies
+## Familiar Technologies
 
   - Ruby
   - Rails
