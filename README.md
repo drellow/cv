@@ -90,4 +90,4 @@ Co-founded a video game development company. As a two person team with no initia
 **App Academy** - Bootcamp / Code School<br>
 [App Academy](http://www.appacademy.io) - San Francisco, CA _(2013)_ <br>
 **State University of New York at Buffalo** - Comparative Literature and Journalism<br>
-[SUNY Buffalo](https://www.risd.edu/) - Buffalo, NY _(2007)_ <br>
+[SUNY Buffalo](https://www.buffalo.edu/) - Buffalo, NY _(2007)_ <br>
