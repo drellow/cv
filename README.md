@@ -6,7 +6,7 @@ _Software Developer in San Francisco, California_ <br>
 
 ## Recent Work
 
-**Software Engineer** @ [Verba Software](https://get.vitalsource.com/what-we-offer/campus-stores) _(March 2015 - Present)_ <br>
+**Senior Software Engineer** @ [Verba Software](https://get.vitalsource.com/what-we-offer/campus-stores) _(March 2015 - Present)_ <br>
 Full stack Rails developer on a team dedicated to making learning materials more affordable and accessible to students.  
   - **Verba Connect / Inclusive Access** <br> Instrumental in architecting and creating a tool in a matter of weeks that would go on to revolutionize digital textbook distribution.
   - **Nebraska Sourcing Integration** <br> Worked closely with third-party logistical partners to develop an API integration workflow which allowed for millions of dollars of learning materials to be tracked efficiently from purchase, warehousing, collection and end-user shipment.
@@ -45,7 +45,7 @@ Full stack Rails developer building a world-class online learning platform. Work
 ## Personal Projects
 
 [Glumdark](https://www.glumdark.com) <br>
-  - Content platform for pre-generated and randomized tabletop roleplaying content. Node backend and simple jQuery frontend.
+  - Content platform for pre-generated and randomized tabletop roleplaying content. Rails backend with a Stimulus frontend.
   - Focus is on a clean, useable and mobile-friendly design which can be easily nagivated and used during roleplaying game sessions.
 
 [The TQ](http://www.thetq.net) <br>
