@@ -6,6 +6,12 @@ _Senior Software Developer in San Francisco, California_ <br>
 
 ## Recent Work
 
+**Senior Software Engineer** @ [LitCharts](https://www.litcharts.com) _(November 2022 - August 2026)_ <br>
+Product-focused Rails developer building an interactive platform for learning literature and poetry.
+  - **AI Tool Infrastructure** Built the foundational infrastructure for AI-assisted learning tools for students. Leveraged content chunking, cosine similarity, token management and API access to deliver tools which made the best use of existen website content. Developed interactivity and technical implementation patterns for all future tooling.
+  - **Product Research & Development** Utilized industry research and customer interaction studies to determine new product growth and development. Leveraged deep technical knowledge with customer and industry research to propose and implement balanced growth initiatives. Worked through multiple features entirely from research to testing, implementation and customer satisfaction surveys for continued development.
+  - **Billing System Overhauls** Worked with existing dual-integration of PayPal & Stripe to overhaul payment and billing systems. Implemented multiple customer access tiers with separate access levels, billing models and cost tiers. Developed workflows to maintain legacy billing systems while transitioning to more modern implementations.
+
 **Senior Software Engineer** @ [Verba Software](https://get.vitalsource.com/what-we-offer/campus-stores) _(March 2015 - Present)_ <br>
 Full stack Rails developer on a team dedicated to making learning materials more affordable and accessible to students.  
   - **Verba Connect / Inclusive Access** <br> Instrumental in architecting and creating a tool in a matter of weeks that would go on to revolutionize digital textbook distribution.
@@ -46,12 +52,12 @@ Full stack Rails developer building a world-class online learning platform. Work
 
 [Glumdark](https://www.glumdark.com) <br>
   - Content platform for pre-generated and randomized tabletop roleplaying content. Rails backend with a Stimulus frontend.
-  - Focus is on a clean, useable and mobile-friendly design which can be easily nagivated and used during roleplaying game sessions.
+  - Focus is on a clean, usable and mobile-friendly design which can be easily navigated and used during roleplaying game sessions.
+  - Manifested in a successful Kickstarter project, generating over $150k in pre-sales. [Kickstarter](https://www.kickstarter.com/projects/exaltedfuneral/glumdark)
 
-The TQ <br>
-  - Social networking site that allows friends and acquaintances to learn more about each other. Moderators post daily thought provoking questions. The answers are sorted along the logged-in user's social graph via Facebook integration. 
-  - Answers can be voted upon and commented upon as well. The app is gamified with a scoreboard that is dynamically built from user interaction.
-  - No longer running, but it was fun briefly.
+[Glumdice](https://www.glumdice.com) <br>
+  - Interactive, virtual dice rolling.
+  - Shared rooms with synced streaming music and sounds.
 
 [CTRO](https://open.spotify.com/artist/22pMySR9XC9BiB1Y3pNWXI?si=ICNTs7RFTGe7q8xv0VPRCw/) | [Bells Rang](https://bellsrang.com/releases) | Fellow Wolf | etc. <br>
   - Recorded, engineered, mixed, and produced several records.
@@ -80,13 +86,15 @@ Co-founded a video game development company. As a two person team with no initia
 ## Languages Spoken
 
 **English**: Native, and quite good. <br>
-**French**: Iffy at best.
+**French**: B2, sometimes better during inspired moments.
 <br><br>
 
 ## Education
 
+**Upright Citizens Brigade** - Improvisational Comedy<br>
+[UCB](https://www.risd.edu/](https://ucbcomedy.com) - New York, NY _(2024-2026)_ <br>
 **Rhode Island School of Design** - Product Development & Manufacturing<br>
-[RISD](https://www.risd.edu/) - Online / Providence, RI _(2020 - Present)_ <br>
+[RISD](https://www.risd.edu/) - Online / Providence, RI _(2020)_ <br>
 **App Academy** - Bootcamp / Code School<br>
 [App Academy](http://www.appacademy.io) - San Francisco, CA _(2013)_ <br>
 **State University of New York at Buffalo** - Comparative Literature and Journalism<br>
