@@ -2,7 +2,7 @@
 
 _Senior Software Developer in San Francisco, California_ <br>
 
-[Email](mailto:christopherlives@gmail.com) | [GitHub](https://github.com/drellow/) | [Spotify](https://open.spotify.com/artist/22pMySR9XC9BiB1Y3pNWXI?si=ICNTs7RFTGe7q8xv0VPRCw/)
+[Email](mailto:christopher@drellow.com) | [GitHub](https://github.com/drellow/) | [Spotify](https://open.spotify.com/artist/22pMySR9XC9BiB1Y3pNWXI?si=ICNTs7RFTGe7q8xv0VPRCw/)
 
 ## Recent Work
 
