@@ -92,7 +92,7 @@ Co-founded a video game development company. As a two person team with no initia
 ## Education
 
 **Upright Citizens Brigade** - Improvisational Comedy<br>
-[UCB](https://www.risd.edu/](https://ucbcomedy.com) - New York, NY _(2024-2026)_ <br>
+[UCB](https://ucbcomedy.com) - New York, NY _(2024-2026)_ <br>
 **Rhode Island School of Design** - Product Development & Manufacturing<br>
 [RISD](https://www.risd.edu/) - Online / Providence, RI _(2020)_ <br>
 **App Academy** - Bootcamp / Code School<br>
