@@ -12,7 +12,7 @@ Product-focused Rails developer building an interactive platform for learning li
   - **Product Research & Development** Utilized industry research and customer interaction studies to determine new product growth and development. Leveraged deep technical knowledge with customer and industry research to propose and implement balanced growth initiatives. Worked through multiple features entirely from research to testing, implementation and customer feedback.
   - **Billing System Overhauls** Worked with existing dual-integration of PayPal & Stripe to overhaul payment and billing systems. Implemented multiple customer access tiers with separate access levels, billing models and cost tiers. Developed workflows to maintain legacy billing systems while transitioning to more modern implementations.
 
-**Senior Software Engineer** @ [Verba Software](https://get.vitalsource.com/what-we-offer/campus-stores) _(March 2015 - Present)_ <br>
+**Senior Software Engineer** @ [Verba Software](https://get.vitalsource.com/what-we-offer/campus-stores) _(March 2015 - November 2022)_ <br>
 Full stack Rails developer on a team dedicated to making learning materials more affordable and accessible to students.  
   - **Verba Connect / Inclusive Access** <br> Instrumental in architecting and creating a tool in a matter of weeks that would go on to revolutionize digital textbook distribution.
   - **Nebraska Sourcing Integration** <br> Worked closely with third-party logistical partners to develop an API integration workflow which allowed for millions of dollars of learning materials to be tracked efficiently from purchase, warehousing, collection and end-user shipment.
