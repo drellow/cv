@@ -20,9 +20,9 @@ Full stack Rails developer on a team dedicated to making learning materials more
 
 **Software Engineer** @ [University Now](https://www.edsurge.com/news/2018-07-09-nonprofit-university-buys-for-profit-college-for-its-tech-platform) _(March 2013 - March 2015)_ <br>
 Full stack Rails developer building a world-class online learning platform. Worked closely with a team of developers, educators, and visionaries to change the world of online higher education.  
-  - **Enrollment 2.0** <br> Lead a team in an effort to reconstruct our student onboarding process. Ensured timely project completion. Architected a new structure for the system including new routing and object model. Worked closely with internal user experience designer.
-  - **Readiness** <br> Built a system that monitors a student's progression through learning material and provides up to the moment feedback, showing them when they are ready to take their exams.
-  - **Course Plans** <br> Backbone application hosted on Rails. Allows course designers to dynamically plan and share course learning materials. Supports multiple dependent objects and automatic persistence to the server.
+  - **Enrollment 2.0** <br> Lead a team in an effort to reconstruct our student onboarding process. Ensured timely project completion. Architected a new structure for the system including new routing and object model. Worked closely with internal user experience team.
+  - **Readiness** <br> Built a system that monitored a student's progression through learning material and provided up to the moment feedback, showing them when they were ready to take their exams.
+  - **Course Plans** <br> Backbone application hosted on Rails. Allowed course designers to dynamically plan and share course learning materials. 
 
 ## Familiar Technologies
 
@@ -86,7 +86,7 @@ Co-founded a video game development company. As a two person team with no initia
 ## Languages Spoken
 
 **English**: Native, and quite good. <br>
-**French**: B2, sometimes better during inspired moments.
+**French**: B1, sometimes better during inspired moments.
 <br><br>
 
 ## Education
